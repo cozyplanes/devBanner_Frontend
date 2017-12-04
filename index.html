@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <br>
+<h1>API is down. Not working now. Sorry for the inconvenience caused</h1><br>
+Hello everyone! I am cozyplanes, and i made this stupid frontend, so beautiful, don't you think?
+Better one coming soon, but til then, use this
+<br><br>
+Word wrap isnt supported yet, sorry
+<br><br>
+you don't need to insert %20 for space, just write the subtext and you are good to go!
+    <br>
+    <br>
+    for newline, put %0A, sth like this: I love%0Acoding
+    <br>
+    which results<br>
+    I love<br>
+    coding
+<br><br><br>
+<b>devRant Username</b> :
+<input type="text" id="username" /> <br>
+<b>Subtext</b> :
+<input type="text" id="subtext"/>
+<br>
+<br>
+
+<button id="create"><b>Create</b></button> 
+
+</body>
+<script type="text/javascript">
+    
+    
+        document.getElementById("create").onclick = function () {
+            var username = document.getElementById("username").value;
+    var subtext = document.getElementById("subtext").value;
+    var url = "https://devbanner.center/generate/banner?username="+username+"&subtext="+subtext;
+            location.href = url;
+        };
+    </script>
+</html>
+
+
+
+
+
+
