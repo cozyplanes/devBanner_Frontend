@@ -1,12 +1,14 @@
-# devBanner_Frontend https://devBanner.github.io/devBanner_Frontend
-Responsive web page in development for devBanner
+**This repo is abandoned. Head over to https://github.com/devBanner/devBanner_Frontend
+PR made here will not be accepted** 
+
+# devBanner_Frontend
+Available here
+https://devBanner.github.io/devBanner_Frontend
+
 
 ----
 
-## For devs who want to contribute to the devBanner Frontend:
-Please join the gitter chat and work with other frontend developers.                  
-Click this button to join.                     
-[![Gitter chat](https://badges.gitter.im/gitterHQ/services.png)](https://gitter.im/devBanner/Lobby)
+
 
 #### devBanner development repo (for all)
-**https://github.com/cozyplanes/devBanner**
+**https://github.com/devBanner/devBanner**
